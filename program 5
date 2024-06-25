@@ -1,5 +1,8 @@
+
+5.Create an application that displays custom designed opening screen
+
 <?xml version="1.0" encoding="utf-8"?>
-		<androidx.constraintlayout.widget.ConstraintLayout 						xmlns:android="http://schemas.android.com/apk/res/android"
+		<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
    		 xmlns:app="http://schemas.android.com/apk/res-auto"
    		 xmlns:tools="http://schemas.android.com/tools"
    		 android:layout_width="match_parent"
@@ -18,11 +21,11 @@
         		tools:ignore="MissingConstraints" />
 
 	</androidx.constraintlayout.widget.ConstraintLayout>
-6.  To add an ImageView resource: Copy an image and paste it into drawable folder (Right-	click Drawable Paste the image[dora.jpg]).
+6.  To add an ImageView resource: Copy an image and paste it into drawable folder (Right-click Drawable Paste the image[dora.jpg]).
 7. Set an image as src in activity_main.xml and update the following code.
 
 			<?xml version="1.0" encoding="utf-8"?>
-			<androidx.constraintlayout.widget.ConstraintLayout 							xmlns:android="http://schemas.android.com/apk/res/android"
+			<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     			xmlns:app="http://schemas.android.com/apk/res-auto"
    			 xmlns:tools="http://schemas.android.com/tools"
    			 android:layout_width="match_parent"
