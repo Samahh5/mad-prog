@@ -1,4 +1,9 @@
 4.Create an application to implement new activity using explicit intent, implicit intent and content providers.
+   . Click New Project, the New Project Dialog box appears. 
+2. Choose Empty Views Activity then click Next. 
+3. Specify the Name of your project, Select the Language as Java, and Select the Minimum SDK 	as API 24 (“Nougat”, Android 7.0). Click Finish Button.
+4. To create another activity for Explicit Intent, Click FileNewActivity Empty Views 	Activity. A New Android Activity dialog box appears, Specify the Name of the activity as 	NewActivity then click Finish.
+5. Create one Text View resource in activity_new.xml and update the following code.
 
 <?xml version="1.0" encoding="utf-8"?>
 	<androidx.constraintlayout.widget.ConstraintLayout 	xmlns:android="http://schemas.android.com/apk/res/android"
