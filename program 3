@@ -1,4 +1,11 @@
 3. Create an application to develop Login window using UI controls.
+    Click New Project, the New Project Dialog box appears. 
+2. Choose Empty Views Activity then click Next. 
+3. Specify the Name of your project, Select the Language as Java, and Select the Minimum SDK 	as API 24 (“Nougat”, Android 7.0). Click Finish Button.
+4. Create background resources (bg_outer.xml) 
+	a. To create resource file click app→res→drawable. Right click drawable→New→ Drawable Resource File. The New Resource File dialog box appears. 
+	b. Set filename as bg_outer.xml, root element as shape and then click ok. Modify the 			bg_outer.xml file.
+
 
 5.  bg_outer.xml
 	
