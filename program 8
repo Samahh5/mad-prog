@@ -1,5 +1,10 @@
 
 8. Read/write the local data.
+ Click Start →Android Studio, a Welcome to Android Studio dialog box will appear. Click New  	Project, the New Project Dialog box appears. 
+2. Choose Empty Views Activity then clicks next. 		
+3. Specify the Name of your project, Select the Language as Java, and Select the Minimum SDK         	as API 24 (“Nougat”, Android 7.0). Click Finish Button
+4. To create another activity for Home Page, Right Click AppNewActivity Empty Views 	Activity. A New Android Activity dialog box appears, Specify the Name of the activity as 	Mainactivity2 then click Finish.
+5. Create one TextView resource in activity_main2.xml and update the following code.
 
 <?xml version="1.0" encoding="utf-8"?>
 	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
