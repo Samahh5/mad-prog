@@ -1,5 +1,11 @@
 
-1. Creating “Hello world” Application.XML
+1. Creating “Hello world” Application.XM
+Click Start →Android Studio, a Welcome to Android Studio dialog box will appear. Click New Project, the New Project Dialog box appears. 
+2. Choose Empty Views Activity then clicks next. 		
+3. Specify the Name of your project, Select the Language as Java, and Select the Minimum SDK
+as API 24 (“Nougat”, Android 7.0). Click Finish Button. 	
+4. activity_main.xml
+
 
  <?xml version="1.0" encoding="utf-8"?>
 	<androidx.constraintlayout.widget.ConstraintLayout 	 	  	xmlns:android="http://schemas.android.com/apk/res/android"
